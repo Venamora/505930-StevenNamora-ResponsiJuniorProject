@@ -1,0 +1,81 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\steven\\505930-StevenNamora-ResponsiJuniorProject\\505930-Steven-ResponsiJunpro\\505930-Steven-ResponsiJunpro.csproj": {}
+  },
+  "projects": {
+    "C:\\steven\\505930-StevenNamora-ResponsiJuniorProject\\505930-Steven-ResponsiJunpro\\505930-Steven-ResponsiJunpro.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\steven\\505930-StevenNamora-ResponsiJuniorProject\\505930-Steven-ResponsiJunpro\\505930-Steven-ResponsiJunpro.csproj",
+        "projectName": "505930-Steven-ResponsiJunpro",
+        "projectPath": "C:\\steven\\505930-StevenNamora-ResponsiJuniorProject\\505930-Steven-ResponsiJunpro\\505930-Steven-ResponsiJunpro.csproj",
+        "packagesPath": "C:\\Users\\Praktikan\\.nuget\\packages\\",
+        "outputPath": "C:\\steven\\505930-StevenNamora-ResponsiJuniorProject\\505930-Steven-ResponsiJunpro\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Praktikan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "Npgsql": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

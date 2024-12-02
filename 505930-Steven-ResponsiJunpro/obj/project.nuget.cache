@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "bjfGa9p33zw=",
+  "success": true,
+  "projectFilePath": "C:\\steven\\505930-StevenNamora-ResponsiJuniorProject\\505930-Steven-ResponsiJunpro\\505930-Steven-ResponsiJunpro.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Praktikan\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\Praktikan\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.2\\microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\Praktikan\\.nuget\\packages\\npgsql\\9.0.1\\npgsql.9.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

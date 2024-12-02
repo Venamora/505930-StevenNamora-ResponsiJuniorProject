@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\steven\\505930-StevenNamora-ResponsiJuniorProject\\505930-Steven-ResponsiJunpro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A12619C1-3459-45D2-B32D-43A903E2AB77}|505930-Steven-ResponsiJunpro.csproj|c:\\steven\\505930-stevennamora-responsijuniorproject\\505930-steven-responsijunpro\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A12619C1-3459-45D2-B32D-43A903E2AB77}|505930-Steven-ResponsiJunpro.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A12619C1-3459-45D2-B32D-43A903E2AB77}|505930-Steven-ResponsiJunpro.csproj|c:\\steven\\505930-stevennamora-responsijuniorproject\\505930-steven-responsijunpro\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A12619C1-3459-45D2-B32D-43A903E2AB77}|505930-Steven-ResponsiJunpro.csproj|solutionrelative:employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A12619C1-3459-45D2-B32D-43A903E2AB77}|505930-Steven-ResponsiJunpro.csproj|c:\\steven\\505930-stevennamora-responsijuniorproject\\505930-steven-responsijunpro\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A12619C1-3459-45D2-B32D-43A903E2AB77}|505930-Steven-ResponsiJunpro.csproj|solutionrelative:employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A12619C1-3459-45D2-B32D-43A903E2AB77}|505930-Steven-ResponsiJunpro.csproj|c:\\steven\\505930-stevennamora-responsijuniorproject\\505930-steven-responsijunpro\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A12619C1-3459-45D2-B32D-43A903E2AB77}|505930-Steven-ResponsiJunpro.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\steven\\505930-StevenNamora-ResponsiJuniorProject\\505930-Steven-ResponsiJunpro\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\steven\\505930-StevenNamora-ResponsiJuniorProject\\505930-Steven-ResponsiJunpro\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T02:04:31.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\steven\\505930-StevenNamora-ResponsiJuniorProject\\505930-Steven-ResponsiJunpro\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "EmployeeRepository.cs",
+              "ToolTip": "C:\\steven\\505930-StevenNamora-ResponsiJuniorProject\\505930-Steven-ResponsiJunpro\\EmployeeRepository.cs",
+              "RelativeToolTip": "EmployeeRepository.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAswBwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T01:31:53.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "employee.cs",
+              "DocumentMoniker": "C:\\steven\\505930-StevenNamora-ResponsiJuniorProject\\505930-Steven-ResponsiJunpro\\employee.cs",
+              "RelativeDocumentMoniker": "employee.cs",
+              "ToolTip": "C:\\steven\\505930-StevenNamora-ResponsiJuniorProject\\505930-Steven-ResponsiJunpro\\employee.cs",
+              "RelativeToolTip": "employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T01:30:30.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\steven\\505930-StevenNamora-ResponsiJuniorProject\\505930-Steven-ResponsiJunpro\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\steven\\505930-StevenNamora-ResponsiJuniorProject\\505930-Steven-ResponsiJunpro\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T00:45:55.277Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
